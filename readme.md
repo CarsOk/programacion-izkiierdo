@@ -1,9 +1,9 @@
 
-#LIBRETA DE PROGRAMACCION
+##LIBRETA DE PROGRAMACCION
 
 Aqui podra encoontrar los apuntes tomados durante el periodo<br>
 de aprendizaje del sena
 
-#mes de septiembre
+#mes de septiembre 2021
 
- - [2 de septiembre](septiembre-2-2021/readme.md)
+- [2 de septiembre](septiembre-2-2021/readme.md)

@@ -1,4 +1,5 @@
-#LIBRETA DE PROGRAMACCION
+#LIBRETA DE PROGRAMACCION<br>
+
 apuntes tomados durante el periodo<br>
 de aprendizaje del sena
 

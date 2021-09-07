@@ -1,27 +1,44 @@
 | ***REPRESENTACION DE VARIABLES EN DISTINTOS ESCENARIOS*** |
 | --------------------------------------------------------- |
 
- En la clase de hoy aprendi con el instructor henry las diferentes formas de representar el inicio y el fin de un programa y como mostrar texto en un sencillo programa.<br>  <br>  <br> **Formas de como se representa inicio y fin de un programa**<br>  
- ***.STARUML*** se crea un diagrama de flujo y se representa
+ En la clase de hoy aprendi con el instructor henry las diferentes formas de<br>
+  representar el inicio y el fin de un programa y como mostrar texto en un sencillo programa.<br>  <br>  <br> **Formas de como se representa inicio y fin de un programa**<br>  
+
+ ***STARUML*** se crea un diagrama de flujo y se representa
 ```
-  inicio y fin
-  ```
- ***EXEL (VISUAL BASIC)*** se escribe
- ```
- sub ejemplo ()
-End Sub"  
+  inicio (terminal)
+   "hola mundo"[mostrar en pantalla]
+  fin (terminal)
 ```
 
- **ejemplo:** (de inicio de programa usando la varriable **msgbox** )
+  ***ALGORITMO***  se escribe inicio y fin para iniciar y terminar el programa <br>
+  se utiliza la variable (escriba) para  mostrar texto en pantalla
+
+```
+  inicio
+   escriba "hola mundo"
+  fin
+```
+
+   ***DARTPAD*** se escribe vold main(){  } y  para mostrar texto en pantalla<br>
+   print ('')
   ```
- Sub bienvenido()
+  vold main(){
+    print ('hola mundo');
+  }
+```
 
-MsgBox "hola bienbenidos"
+ ***EXEL (VISUAL BASIC)*** se escribe sub ejempplo() End sub" para el inicio y<br>
+ el fin  para mostrar texto en panlla msgbox""
 
-End Sub"   
-```        
+```
+sub ejemplo ()
+  msgbox "hola mundo"
+End Sub"          
+```
 
-**tarea 3 mesages en MsgBox:**
+***COMPROMISO: HACER 3 MENSAJES CON MSGBOX***
+
 ```
 Sub prueba()
 MsgBox "pon a prueba tu conocimiento que tal si repasamos las tablas del 5"

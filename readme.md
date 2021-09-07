@@ -1,7 +1,7 @@
 
-##LIBRETA DE PROGRAMACCION
+#LIBRETA DE PROGRAMACCION
 
-Aqui podra encoontrar los apuntes tomados durante el periodo<br>
+apuntes tomados durante el periodo<br>
 de aprendizaje del sena
 
 #mes de septiembre 2021

@@ -1,7 +1,8 @@
 # LIBRETA DE PROGRAMACION<br>
 
 apuntes tomados durante el periodo<br>
-de aprendizaje en el sena el tecnologo ADSI
+de aprendizaje en el sena. en el programa<br>
+ de formacion ***tecnologo ADSI***
 
 
 ***Mes de septiembre 2021***

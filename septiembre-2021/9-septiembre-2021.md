@@ -11,12 +11,9 @@ con el programa.
 Sub promedio()
 N1 = InputBox("digite su primer numero")
 N2 = InputBox("digite su segundo numero")
-N3 = InputBox("digite su tercer numero")
-N4 = InputBox("digite su cuarto numero")
-N5 = InputBox("digite su quinto numero")
-S = Int(N!) + Int(N2) + Int(N3) + Int(N4) + Int(N5)
-R = Int(S) / 5
-MsgBox "EL PROMEDIO ES = " & g
+S = Int(N1) + Int(N2) 
+R = Int(S)
+MsgBox "EL PROMEDIO ES = " & R
 End Sub
 ```
 
@@ -31,9 +28,9 @@ N2 = InputBox("digite su segundo numero")
 N3 = InputBox("digite su tercer numero")
 N4 = InputBox("digite su cuarto numero")
 N5 = InputBox("digite su quinto numero")
-S = Int(N!) + Int(N2) + Int(N3) + Int(N4) + Int(N5)
+S = Int(N2) + Int(N2) + Int(N3) + Int(N4) + Int(N5)
 R = Int(S) / 5
-MsgBox "EL PROMEDIO ES = " & g
+MsgBox "EL PROMEDIO ES = " & R
 End Sub
 ```
 

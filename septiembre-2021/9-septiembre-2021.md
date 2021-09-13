@@ -1,4 +1,4 @@
-| ***REPRESENTACION DE VARIABLE SUMA Y PROMEDIO *** |
+| ***REPRESENTACION DE VARIABLE SUMA Y PROMEDIO*** |
 | --------------------------------------------------------- |
 
 En esta clase aprendimos como adicionar calculos matematicos<br>
@@ -33,8 +33,8 @@ N4 = InputBox("digite su cuarto numero")
 N5 = InputBox("digite su quinto numero")
 S = Int(N!) + Int(N2) + Int(N3) + Int(N4) + Int(N5)
 R = Int(S) / 5
-End Sub
 MsgBox "EL PROMEDIO ES = " & g
+End Sub
 ```
 
    ***ME PARECIO INTERESANTE***
@@ -64,7 +64,7 @@ End Sub
 
 Private Sub Cerrar_Click()
 End
-End Su
+End Sub
 
 ```
 

@@ -58,4 +58,4 @@ MsgBox "pon a prueba tu conocimiento que tal si repasamos las tablas del 5"
 
 End Sub
 ```
-![STARUML](1.jpg)
+![STARUML](img/1.jpg)

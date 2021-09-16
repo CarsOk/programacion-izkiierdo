@@ -45,5 +45,5 @@ Sub inicio()
    ![visualizacion](img/p2.jpg)
 
    ![visualizacion](img/p3.jpg)
-   
+
    ![visualizacion](img/p4.jpg)

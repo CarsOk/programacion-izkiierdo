@@ -40,6 +40,7 @@ Sub inicio()
    ```
 
 ***FORMS***
+
    ![visualizacion](img/p1.jpg)
 
    ![visualizacion](img/p2.jpg)

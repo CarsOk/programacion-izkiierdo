@@ -11,7 +11,7 @@ Sub prueba1()
   datos.Cells(#fila, #columna) = form.Cells(#fila, #columna)
   MsgBox "datos registrados"
   form.Cells(#fila, #columna) = Empty
-  form.Cells(#fila, #columna) = ""
+  form.Cells(#fila, #columna) = Empty
 End Sub
 ```
 
@@ -27,15 +27,15 @@ Sub info()
     f = forms.cells(8, 10)
     MsgBox "Se registro la cita de " & nc
     msgbox "para la fecha " & f
-    form.Cells(3, 5) = ""
-    form.Cells(5, 5) = ""
-    form.Cells(7, 5) = ""
-    form.Cells(9, 5) = ""
-    form.Cells(11, 5) = ""
+    form.Cells(6, 7) = Empty
+    form.Cells(8, 7) = Empty
+    form.Cells(8, 10) = Empty
+    form.Cells(10, 7) = Empty
+    form.Cells(01, 10) = Empty
 End sub
 
-Function notasSena (s, u, g, b, c)
-    promedio = (s + u + g + b + c) / 5
+Function notasSena (a, b, c, d, e)
+    promedio = (a + b + c + d + e) / 5
     If (promedio < 7) Then
         notasSena = " con esta nota " & promedio & " aprobo"
     Else
